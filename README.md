@@ -6,7 +6,7 @@
 
 O dtmoney é uma aplicação de controle financeiro com a mesma ideia que o dev.finances, porém com tecnologias e recursos estudados e utilizados mais avançados, bibliotecas open source desenvolvidas pela comunidade. 
 
-Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do **Bootcamp Ignite da Rocketseat**, evento organizado pela [Rocketseat](https://www.rocketseat.com.br/). Nesse app é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do **Bootcamp Ignite da Rocketseat**, evento organizado pela [Rocketseat](https://www.rocketseat.com.br/). Nesse app é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰.
 
 # Layout 🏷️
 
